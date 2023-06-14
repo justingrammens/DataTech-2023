@@ -7,7 +7,7 @@ Let's dive into the world of prompt engineering and explore its role in optimizi
 We will delve into interactive examples using the OpenAI Playground. Through hands-on exploration, we will interface directly with the ChatGPT API, helping us gain insights and better understanding of the results.
 
 About the Speaker
-Hi! I’m Justin Grammens. I’m a lifelong learner, passionate about Software Development, Artificial Intelligence, and driven by giving back to the community through service and education. 
+Hi! I’m [Justin Grammens](https://justingrammens.com). I’m a lifelong learner, passionate about Software Development, Artificial Intelligence, and driven by giving back to the community through service and education. 
  
 I’m the Founder and CEO of [Lab651](https://lab651.com) where our teams guides and supports our customers to achieve successful software product launches. Contact us to learn about our Software Development Done Right framework and top-tier crew. Additionally, I an the Founder and CEO of [Recursive Awesome](https://recursiveawesome.com) where mysself and our team has helped dozens of companies use Artificial Intelligecne to solve their most challenging business problems.
  
